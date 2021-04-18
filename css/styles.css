@@ -2026,7 +2026,7 @@ input[type=month].form-control {
 
 select.form-control:focus::-ms-value {
   color: #495057;
-  background-color: #fff;
+  background-color: rgba(255, 0, 242, 0.616);
 }
 
 .form-control-file,
@@ -2064,7 +2064,7 @@ select.form-control:focus::-ms-value {
   margin-bottom: 0;
   font-size: 1rem;
   line-height: 1.5;
-  color: #212529;
+  color: #0080ff;
   background-color: transparent;
   border: solid transparent;
   border-width: 0.125rem 0;
@@ -2263,7 +2263,7 @@ textarea.form-control {
   margin-top: 0.1rem;
   font-size: 0.875rem;
   line-height: 1.5;
-  color: #fff;
+  color: rgb(255, 196, 0);
   background-color: rgba(220, 53, 69, 0.9);
   border-radius: 0.5rem;
 }
@@ -6073,37 +6073,37 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: #ff5e00 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important;
+  background-color: #ff6600 !important;
 }
 
 .bg-secondary {
-  background-color: #2c3e50 !important;
+  background-color: #0b00aa !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
-  background-color: #1a252f !important;
+  background-color: #f15900 !important;
 }
 
 .bg-success {
-  background-color: #28a745 !important;
+  background-color: #c45810 !important;
 }
 
 a.bg-success:hover, a.bg-success:focus,
 button.bg-success:hover,
 button.bg-success:focus {
-  background-color: #1e7e34 !important;
+  background-color: #1300b9 !important;
 }
 
 .bg-info {
-  background-color: #17a2b8 !important;
+  background-color: #f35900 !important;
 }
 
 a.bg-info:hover, a.bg-info:focus,
